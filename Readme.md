@@ -7,6 +7,6 @@ https://aging.jmir.org/2023/1/e44439/
 https://publichealth.jmir.org/2019/4/e14295
 
 Notes on interviews
-# Table 8.1 Overview of Data Gathering Techniques and Their Use @ INTERACTION DESIGN beyond human-computer interaction
+Table 8.1 Overview of Data Gathering Techniques and Their Use @ INTERACTION DESIGN beyond human-computer interaction
 
 
