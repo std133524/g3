@@ -1,3 +1,4 @@
+<del>
 Papers for HCI Evaluation
 
 1. Development of a Smart Home Interface With Older Adults: Multi-Method Co-Design Study
@@ -8,7 +9,7 @@ https://publichealth.jmir.org/2019/4/e14295
 
 3. Notes on interviews
 Table 8.1 Overview of Data Gathering Techniques and Their Use @ INTERACTION DESIGN beyond human-computer interaction book
-
+</del>
 
 
 ## Μέρος Β - Υλοποίηση: 40 μονάδες
