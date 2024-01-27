@@ -11,7 +11,6 @@ https://publichealth.jmir.org/2019/4/e14295
 Table 8.1 Overview of Data Gathering Techniques and Their Use @ INTERACTION DESIGN beyond human-computer interaction book
 </del>
 
-
 ## Μέρος Β - Υλοποίηση: 40 μονάδες
 
 ### Ερώτημα 1 – Λειτουργικό υπόδειγμα υψηλής πιστότητας
@@ -41,19 +40,23 @@ https://www.nngroup.com/topic/research-methods/
 
 #### Απάντηση
 
-https://eclass.aegean.gr/modules/document/file.php/511265/Doc1_%CE%91%CE%BE%CE%B9%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7%20%CE%94%CE%B9%CE%B1%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8E%CE%BD.pdf#page=67&zoom=auto,-98,269
-
-https://garyperlman.com/quest/quest.cgi
-
-Χρήση του IBM CSUQ καθώς και του https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines στο 2o paper
-
-2 papers
-Evaluation of the Usability of a Mobile Application for Public Air Quality Information
+Η πρώτη δημοσίευση που βρέθηκε [Evaluation of the Usability of a Mobile Application for Public Air Quality Information Jorge-Luis Pérez-Medina 1(&) , Rasa Zalakeviciute 1,2 ,
+Yves Rybarczyk 1 , and Mario González]  
 https://link.springer.com/chapter/10.1007/978-3-030-20040-4_41
 https://annas-archive.org/scidb/10.1007/978-3-030-20040-4_41?scidb_verified=1
 
-Accessibility Evaluation of Mobile Applications for Monitoring Air Quality
+αφορά πρότυπα ερωτηματολόγια ευχρηστίας. Μια περίληψη των διάφορων ερωτηματόλογίων ευχρηστίας εμφανίζονται στην παράγραφο 2.3.2 του βιβλίου "Αξιολόγηση
+Διαδραστικών Συστημάτων με Επίκεντρο το Χρήστη", του Παναγιώτη Κουτσαμπάση:
+https://eclass.aegean.gr/modules/document/file.php/511265/Doc1_%CE%91%CE%BE%CE%B9%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7%20%CE%94%CE%B9%CE%B1%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8E%CE%BD.pdf#page=67&zoom=auto,-98,269
+
+Στην συγκεκρινένη δημοσίευση έγινε χρήση του ερωτηματολογίου CSUQ: Computer System Usability Questionnaire https://garyperlman.com/quest/quest.cgi
+
+Χρήση του IBM CSUQ καθώς και του https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines στο 2o paper
+
+Στην δεύτερη δημοσίευση [Accessibility Evaluation of Mobile Applications for Monitoring Air Quality Patricia Acosta-Vargas 1(&) , Rasa Zalakeviciute 1 , Sergio Luján-Mora 2 , and Wilmar Hernandez  Accessibility Evaluation of Mobile Applications for Monitoring Air Quality
 https://sci-hub.ru/10.1007/978-3-030-11890-7_61
+
+γίνεται χρήστη των web standards WCAG 2.1 για αξιολόγιση παρόμοιων εφαρμογών AQI. Κυρίως εμφανίστηκαν προβλήματα στην αντίθεση εικόνας καθώς και δυσκολία στον πάτημα πλήκτρου καθώς και δυσκολία στην κατανόηση των ετικετών όπως εμφανίζονται πάνω σε διάφορες επιλογές.
 
 Δώστε την απάντηση. Εάν δεν έχετε δώσει απάντηση γράψτε με κεφαλαία γράμματα,
 ΔΕΝ ΑΠΑΝΤΗΘΗΚΕ Εάν εν γνώση σας δίνετε ελλιπή απάντηση γράψτε με κεφαλαία
@@ -67,6 +70,11 @@ https://sci-hub.ru/10.1007/978-3-030-11890-7_61
 Δώστε την απάντηση. Εάν δεν έχετε δώσει απάντηση γράψτε με κεφαλαία γράμματα,
 ΔΕΝ ΑΠΑΝΤΗΘΗΚΕ Εάν εν γνώση σας δίνετε ελλιπή απάντηση γράψτε με κεφαλαία
 γράμματα, ΕΛΛΙΠΗΣ ΑΠΑΝΤΗΣΗ.
+
+Η αξιολόγιση θα γίνει σύμφωνα με τα standards όπως παρουσιάστηκαν στις 2 αυτές δημοσιεύσεις. 
+Θα χρησιμοποιηθεί κυρίως το  IBM Computer Usability Satisfaction Questionnaires https://garyperlman.com/quest/quest.cgi
+Για την εφαρμογή που έχει γίνει fork θα αποτελείται μόνο από μια οθόνη που θα ανανεώνεται συνεχώς και θα εμφανίζει μηνήματα εάν ξεπεραστεί το επιτρεπτό όριο.
+
 
 ### Ερώτημα 3 – Αναφορά
 Ετοιμάστε αναλυτική αναφορά των αποτελεσμάτων της αξιολόγησης με χρήστες, συμπεριλαμβάνοντας πίνακες-γραφήματα-εικόνες από πολλαπλά δεδεμένα: 1) φωτογραφίες από την διάδραση με τους χρήστες, όπου φαίνεται τόσο ο χρήστης όσο και η εφαρμογή, 2) ενδεικτικές οθόνες της χρήσης της εφαρμογής με επισημάνσεις και 3) οπτικοποίηση από δεδομένα με analytics και log files. Επίσης, η αναφορά θα πρέπει να περιλαμβάνει μια ενότητα συμπερασμάτων που βασίζονται σε σύνθεση διαφορετικών δεδομένων καθώς και με προτάσεις και οθόνες για τον ανασχεδιασμό της εφαρμογής, που θα τεκμηριώνεται από τα δεδομένα της αξιολόγησης με τους χρήστες. https://www.nngroup.com/articles/actionable-usability-findings/
