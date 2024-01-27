@@ -41,6 +41,8 @@ https://www.nngroup.com/topic/research-methods/
 
 #### Απάντηση
 
+https://eclass.aegean.gr/modules/document/file.php/511265/Doc1_%CE%91%CE%BE%CE%B9%CE%BF%CE%BB%CF%8C%CE%B3%CE%B7%CF%83%CE%B7%20%CE%94%CE%B9%CE%B1%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8E%CE%BD.pdf#page=67&zoom=auto,-98,269
+
 https://garyperlman.com/quest/quest.cgi
 
 Χρήση του IBM CSUQ καθώς και του https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines στο 2o paper
