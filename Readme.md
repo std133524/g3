@@ -27,6 +27,7 @@ https://github.com/std133524/Airometer-new/blob/18d24dba8fb42ef986cee303b80a851c
 
 To τελικό αποτέλεσμα έπειτα από αρκετές εκτελέσεις της εφαρμογής είναι σε αυτό το animated gif:
 
+Screen shots απο την χρήση της εφαρμογής. https://github.com/std133524/Airometer-new/blob/master/screenshots/present/
 ![Εφαρμογη Ποιότητας Αέρα](https://github.com/std133524/Airometer-new/blob/master/screenshots/present/annimated.png)
 
 
